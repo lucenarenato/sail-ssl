@@ -27,18 +27,18 @@
     },
     "autoload": {
         "psr-4": {
-            "lucenarenato\\SailSsl\\": "src/"
+            "Lucenarenato\\SailSsl\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "lucenarenato\\SailSsl\\Tests\\": "tests/"
+            "Lucenarenato\\SailSsl\\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "lucenarenato\\SailSsl\\SailSslServiceProvider"
+                "Lucenarenato\\SailSsl\\SailSslServiceProvider"
             ]
         }
     },
