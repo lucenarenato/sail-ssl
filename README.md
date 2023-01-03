@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/github/license/lucenarenato/sail-ssl)
 ![Test](https://img.shields.io/github/actions/workflow/status/lucenarenato/sail-ssl/laravel.yml?branch=main&label=test)
 
-Laravel Sail plugin to enable SSL (HTTPS) connection with Nginx.
+ Laravel 7 e php7.2 - Laravel Sail plugin to enable SSL (HTTPS) connection with Nginx.
 
 ## Install
 You need to setup [Laravel Sail](https://github.com/laravel/sail) environment before using the plugin.
