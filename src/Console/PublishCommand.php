@@ -31,7 +31,7 @@ class PublishCommand extends Command
         $this->call('vendor:publish', ['--tag' => 'sail-ssl']);
         file_put_contents(
             $this->laravel->basePath('docker-compose.yml'),
-            str_replace('./vendor/ryoluo/sail-ssl/nginx/templates', './nginx/templates', $dockerCompose)
+            str_replace('./vendor/lucenarenato/sail-ssl/nginx/templates', './nginx/templates', $dockerCompose)
         );
     }
 }
