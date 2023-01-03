@@ -1,6 +1,6 @@
 <?php
 
-namespaceLucenarenato\SailSsl\Console;
+namespace Lucenarenato\SailSsl\Console;
 
 use Illuminate\Console\Command;
 
