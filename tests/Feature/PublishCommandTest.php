@@ -1,8 +1,8 @@
 <?php
 
-namespace Ryoluo\SailSsl\Tests\Feature;
+namespace Lucenarenato\SailSsl\Tests\Feature;
 
-use Ryoluo\SailSsl\Tests\TestCase;
+use Lucenarenato\SailSsl\Tests\TestCase;
 
 class PublishCommandTest extends TestCase
 {

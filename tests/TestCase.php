@@ -1,8 +1,8 @@
 <?php
 
-namespace Ryoluo\SailSsl\Tests;
+namespace Lucenarenato\SailSsl\Tests;
 
-use Ryoluo\SailSsl\SailSslServiceProvider;
+use Lucenarenato\SailSsl\SailSslServiceProvider;
 use Laravel\Sail\SailServiceProvider;
 use Illuminate\Support\Facades\Artisan;
 

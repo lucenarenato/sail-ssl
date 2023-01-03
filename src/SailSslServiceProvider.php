@@ -1,11 +1,11 @@
 <?php
 
-namespace Ryoluo\SailSsl;
+namespace Lucenarenato\SailSsl;
 
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
-use Ryoluo\SailSsl\Console\InstallCommand;
-use Ryoluo\SailSsl\Console\PublishCommand;
+use Lucenarenato\SailSsl\Console\InstallCommand;
+use Lucenarenato\SailSsl\Console\PublishCommand;
 
 class SailSslServiceProvider extends ServiceProvider implements DeferrableProvider
 {

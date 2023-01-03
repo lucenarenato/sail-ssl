@@ -1,6 +1,6 @@
 <?php
 
-namespace Ryoluo\SailSsl\Console;
+namespaceLucenarenato\SailSsl\Console;
 
 use Illuminate\Console\Command;
 

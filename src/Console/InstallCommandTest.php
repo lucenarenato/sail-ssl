@@ -1,8 +1,8 @@
 <?php
 
-namespaceLucenarenato\SailSsl\Tests\Feature;
+namespace Lucenarenato\SailSsl\Tests\Feature;
 
-useLucenarenato\SailSsl\Tests\TestCase;
+use Lucenarenato\SailSsl\Tests\TestCase;
 
 class InstallCommandTest extends TestCase
 {
