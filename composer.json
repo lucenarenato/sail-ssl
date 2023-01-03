@@ -1,6 +1,6 @@
 {
     "name": "lucenarenato/sail-ssl",
-    "description": "Laravel Sail plugin to enable SSL (HTTPS) connection with Nginx.",
+    "description": "Laravel 7 e php7.2 - Laravel Sail plugin to enable SSL (HTTPS) connection with Nginx.",
     "keywords": [
         "laravel",
         "sail",
