@@ -1,6 +1,6 @@
 {
     "name": "lucenarenato/sail-ssl",
-    "description": "Laravel 7 e php7.2 - Laravel Sail plugin to enable SSL (HTTPS) connection with Nginx.",
+    "description": "Laravel 5,6,7 e php7.2 - Laravel Sail plugin to enable SSL (HTTPS) connection with Nginx.",
     "keywords": [
         "laravel",
         "sail",
@@ -21,9 +21,9 @@
     ],
     "require": {
         "php": "^7.2|^7.3|^8.0",
-        "illuminate/console": "^7.0|^8.0|^9.0",
-        "illuminate/contracts": "^7.0|^8.0|^9.0",
-        "illuminate/support": "^7.0|^8.0|^9.0"
+        "illuminate/console": "^5.0|^6.0|^7.0|^8.0|^9.0",
+        "illuminate/contracts": "^5.0|^6.0|^7.0|^8.0|^9.0",
+        "illuminate/support": "^5.0|^6.0|^7.0|^8.0|^9.0"
     },
     "autoload": {
         "psr-4": {
@@ -48,8 +48,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require-dev": {
-        "ajuchacko/sail-7.x": "1.x-dev",
-        "orchestra/testbench": "^5.0|^6.0|^7.0",
-        "phpunit/phpunit": "^8.4|^9.0|^9.5"
+        "lucenarenato/sail-7.x": "1.x-dev",
+        "orchestra/testbench": "^3.5|^5.0|^6.0|^7.0",
+        "phpunit/phpunit": "^5.0|^8.4|^9.0|^9.5"
     }
 }
